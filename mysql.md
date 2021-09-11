@@ -12,7 +12,7 @@ page是内外村交换的基本单位，也是存储的基本单位。
 
 不是物理有序
 
-![image-20210909202314078](C:\Users\86188\AppData\Roaming\Typora\typora-user-images\image-20210909202314078.png)
+![image-20210909202314078](.\image\image-20210909202314078.png)
 
 页和页之间是双向链表
 
