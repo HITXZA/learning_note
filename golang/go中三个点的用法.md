@@ -31,3 +31,6 @@ Go命令行中的通配符
 在这个例子中，会单元测试当前目录和所有子目录的所有包：
 
 go test ./...
+
+参考资料：
+https://github.com/zhangyachen/zhangyachen.github.io/issues/137
